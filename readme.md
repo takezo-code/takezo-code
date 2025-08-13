@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou o Thales Gabriel
+#  Olá, eu sou o Thales Gabriel
 
-💻 Desenvolvedor de Software | 📍 Belém - PA, Brasil  
+ Desenvolvedor de Software |  Belém - PA, Brasil  
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 Sou **Thales Gabriel**, tenho **20 anos**, moro em **Belém do Pará** e atualmente curso **Sistemas de Informação**.  
 Atuo como **desenvolvedor**, sempre buscando evoluir minhas habilidades e criar soluções que gerem impacto real.
 
@@ -25,14 +25,14 @@ Atuo como **desenvolvedor**, sempre buscando evoluir minhas habilidades e criar 
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 ![Thales GitHub Stats](https://github-readme-stats.vercel.app/api?username=takezo-code&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takezo-code&layout=compact&theme=dracula)
 
 ---
 
-## 📌 Projetos em Destaque
+##  Projetos em Destaque
 
 - [**Projeto 1**](https://github.com/takezo-code) — breve descrição do projeto.
 - [**Projeto 2**](https://github.com/takezo-code) — breve descrição do projeto.
@@ -40,7 +40,7 @@ Atuo como **desenvolvedor**, sempre buscando evoluir minhas habilidades e criar 
 
 ---
 
-## 📫 Contato
+##  Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:thales.gcr05@gmail.com)
