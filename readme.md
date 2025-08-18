@@ -26,8 +26,9 @@ Atuo como **desenvolvedor**, sempre buscando evoluir minhas habilidades e criar 
 
 ## 📊 Estatísticas do GitHub
 
-![Thales GitHub Stats](https://github-readme-stats.vercel.app/api?username=takezo-code&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takezo-code&layout=compact&theme=dracula)
+![Thales GitHub Stats](https://github-readme-stats.vercel.app/api?username=takezo-code&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takezo-code&layout=compact&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+
 
 ---
 
