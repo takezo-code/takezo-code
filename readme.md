@@ -31,13 +31,11 @@ Atuo como **desenvolvedor**, sempre buscando evoluir minhas habilidades e criar 
 
 ---
 
-##  Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-- [**Projeto 1**](https://github.com/takezo-code) — breve descrição do projeto.
-- [**Projeto 2**](https://github.com/takezo-code) — breve descrição do projeto.
-- [**Projeto 3**](https://github.com/takezo-code) — breve descrição do projeto.
-
----
+- [**RDM – Registro de Deslocamentos de Motoristas**](https://github.com/takezo-code/RDM)  
+  Aplicativo mobile em **React Native** integrado a um sistema web em **Laravel** para monitorar corridas, registrar paradas e gerar histórico de viagens.  
+  Inclui **API REST** e banco de dados para controle de motoristas e veículos.
 
 ##  Contato
 
