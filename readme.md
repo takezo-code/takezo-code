@@ -1,16 +1,16 @@
-#  Olá, eu sou o Thales Gabriel
+# 👋 Olá, eu sou o Thales Gabriel
 
- Desenvolvedor de Software |  Belém - PA, Brasil  
+💻 **Desenvolvedor de Software** | 📍 Belém - PA, Brasil  
 
 ---
 
-##  Sobre mim
+## 📝 Sobre mim
 Sou **Thales Gabriel**, tenho **20 anos**, moro em **Belém do Pará** e atualmente curso **Sistemas de Informação**.  
-Atuo como **desenvolvedor**, sempre buscando evoluir minhas habilidades e criar soluções que gerem impacto real.
+Atuo como **desenvolvedor**, sempre buscando evoluir minhas habilidades e criar soluções que gerem **impacto real**. 🚀
 
 ---
 
-##  Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
@@ -24,22 +24,26 @@ Atuo como **desenvolvedor**, sempre buscando evoluir minhas habilidades e criar 
 
 ---
 
-##  Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 ![Thales GitHub Stats](https://github-readme-stats.vercel.app/api?username=takezo-code&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takezo-code&layout=compact&theme=dracula)
 
 ---
 
-##  Projetos em Destaque
+## 🌟 Projetos em Destaque
 
 - [**RDM – Registro de Deslocamentos de Motoristas**](https://github.com/takezo-code/RDM)  
   Aplicativo mobile em **React Native** integrado a um sistema web em **Laravel** para monitorar corridas, registrar paradas e gerar histórico de viagens.  
-  Inclui **API REST** e banco de dados para controle de motoristas e veículos.
+  Inclui **API REST** e banco de dados para controle de motoristas e veículos. 🚌
 
-##  Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:thales.gcr05@gmail.com)
 
 ---
+
+✨ Obrigado por visitar meu perfil! Sinta-se à vontade para conferir meus projetos e me contatar.  
