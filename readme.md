@@ -10,7 +10,7 @@
 
 Sou **Thales Gabriel**, tenho **20 anos** e curso **Sistemas de Informação**.
 Atuo como **desenvolvedor full stack**, com foco em criar **aplicações modernas, performáticas e escaláveis**.
-Busco constantemente evoluir minhas habilidades e construir soluções que gerem **impacto real** — combinando tecnologia, design e propósito. 🚀
+Busco constantemente evoluir minhas habilidades e construir soluções que gerem **impacto real** combinando tecnologia, design e propósito. 🚀
 
 ---
 
