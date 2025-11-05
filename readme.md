@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=false&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Foco+em+soluções+modernas+e+escaláveis;Apaixonado+por+tecnologia+e+inovação)](https://git.io/typing-svg)
 
-💻 **Desenvolvedor de Software** | 📍 Belém - PA, Brasil  
+💻 **Desenvolvedor de Software** | 📍 Belém - PA, Brasil
 
 ---
 
@@ -10,39 +10,29 @@
 
 Sou **Thales Gabriel**, tenho **20 anos** e curso **Sistemas de Informação**.  
 Atuo como **desenvolvedor full stack**, com foco em criar **aplicações modernas, performáticas e escaláveis**.  
-Busco constantemente aprimorar minhas habilidades e desenvolver soluções que gerem **impacto real**, unindo **tecnologia, design e propósito**. 🚀  
+Busco constantemente aprimorar minhas habilidades e desenvolver soluções que gerem **impacto real**, unindo **tecnologia, design e propósito**. 🚀
 
 ---
 
 ## 🧠 Minha Stack
 
 ### 🎨 Front-end
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
-</p>
-
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 
 ### ⚙️ Back-end
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="45" alt="nestjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="postman" />
-</p>
-
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
 
 ### 🗄️ Banco de Dados
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 
 ---
 
@@ -50,7 +40,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que g
 
 - [**RDM – Registro de Deslocamentos de Motoristas**](https://github.com/takezo-code/RDM)  
   Aplicativo desenvolvido para registrar corridas, monitorar paradas e gerar histórico de viagens.  
-  Integra **frontend mobile (React Native)** com **backend em Laravel**, além de **API REST** e banco de dados relacional. 🚌  
+  Integra **frontend mobile (React Native)** com **backend em Laravel**, além de **API REST** e banco de dados relacional. 🚌
 
 ---
 
@@ -65,7 +55,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que g
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:thales.gcr05@gmail.com)
 
 ---
