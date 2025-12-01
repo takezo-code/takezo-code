@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o Thales Gabriel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=false&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Foco+em+soluções+modernas+e+escaláveis;Apaixonado+por+tecnologia+e+inovação)](https://git.io/typing-svg)
 
 💻 **Desenvolvedor de Software** | 📍 Belém - PA, Brasil
 
