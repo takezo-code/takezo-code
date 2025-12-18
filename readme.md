@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Thales Gabriel
 
-💻 <Software Developer /> | Full Stack
+💻 **Desenvolvedor de Software** | 📍 Belém - PA, Brasil
 
 ---
 
