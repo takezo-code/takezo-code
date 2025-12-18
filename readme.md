@@ -7,8 +7,8 @@
 ## 📝 Sobre mim
 
 Sou **Thales Gabriel**, tenho **20 anos** e curso **Sistemas de Informação**.
-Atuo como **desenvolvedor full stack**, com foco em criar **aplicações modernas e escaláveis**.
-Busco constantemente aprimorar minhas habilidades e desenvolver soluções que gerem **impacto real**, unindo **tecnologia e propósito**. 🚀
+Atuo como **desenvolvedor full stack**, com foco em criar **aplicações modernas, performáticas e escaláveis**.
+Busco constantemente aprimorar minhas habilidades e desenvolver soluções que gerem **impacto real**, unindo **tecnologia, design e propósito**. 🚀
 
 ---
 
@@ -26,6 +26,8 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que g
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=fff)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge\&logo=insomnia\&logoColor=fff)
 
 ### 🗄️ Banco de Dados
