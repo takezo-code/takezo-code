@@ -1,44 +1,45 @@
 # 👋 Olá, eu sou o Thales Gabriel
 
-
 💻 **Desenvolvedor de Software** | 📍 Belém - PA, Brasil
 
 ---
 
 ## 📝 Sobre mim
 
-Sou **Thales Gabriel**, tenho **20 anos** e curso **Sistemas de Informação**.  
-Atuo como **desenvolvedor full stack**, com foco em criar **aplicações modernas, performáticas e escaláveis**.  
-Busco constantemente aprimorar minhas habilidades e desenvolver soluções que gerem **impacto real**, unindo **tecnologia, design e propósito**. 🚀
+Sou **Thales Gabriel**, tenho **20 anos** e curso **Sistemas de Informação**.
+Atuo como **desenvolvedor full stack**, com foco em criar **aplicações modernas e escaláveis**.
+Busco constantemente aprimorar minhas habilidades e desenvolver soluções que gerem **impacto real**, unindo **tecnologia e propósito**. 🚀
 
 ---
 
 ## 🧠 Minha Stack
 
 ### 🎨 Front-end
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=fff)
 
 ### ⚙️ Back-end
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=fff)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge\&logo=insomnia\&logoColor=fff)
 
 ### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=fff)
 
 ---
 
 ## 🌟 Projetos em Destaque
 
-- [**RDM – Registro de Deslocamentos de Motoristas**](https://github.com/takezo-code/RDM)  
-  Aplicativo desenvolvido para registrar corridas, monitorar paradas e gerar histórico de viagens.  
-  Integra **frontend mobile (React Native)** com **backend em Laravel**, além de **API REST** e banco de dados relacional. 🚌
+* [**RDM – Registro de Deslocamentos de Motoristas**](https://github.com/takezo-code/RDM)
+  Aplicativo desenvolvido para registrar corridas, monitorar paradas e gerar histórico de viagens.
+  Integra **frontend mobile (React Native)** com **backend via API REST**, utilizando banco de dados relacional. 🚌
 
 ---
 
@@ -53,10 +54,10 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que g
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:thales.gcr05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:thales.gcr05@gmail.com)
 
 ---
 
-✨ Obrigado por visitar meu perfil!  
+✨ Obrigado por visitar meu perfil!
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.
