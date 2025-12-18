@@ -8,7 +8,7 @@
 
 Sou **Thales Gabriel**, tenho **20 anos** e curso **Sistemas de Informação**.
 Atuo como **desenvolvedor full stack**, com foco em criar **aplicações modernas e escaláveis**.
-Busco constantemente aprimorar minhas habilidades e desenvolver soluções que gerem **impacto real**, unindo **tecnologia e propósito**. 🚀
+Busco constantemente aprimorar minhas habilidades e desenvolver soluções que gerem **impacto real**, unindo **tecnologia e propósito**.
 
 ---
 
@@ -43,7 +43,7 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que g
 
 * [**RDM – Registro de Deslocamentos de Motoristas**](https://github.com/takezo-code/RDM)
   Aplicativo desenvolvido para registrar corridas, monitorar paradas e gerar histórico de viagens.
-  Integra **frontend mobile (React Native)** com **backend via API REST**, utilizando banco de dados relacional. 🚌
+  Integra **frontend mobile (React Native)** com **backend via API REST**, utilizando banco de dados relacional. 
 
 ---
 
@@ -63,5 +63,5 @@ Busco constantemente aprimorar minhas habilidades e desenvolver soluções que g
 
 ---
 
-✨ Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.
