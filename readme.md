@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Thales Gabriel
 
-💻 **💻 <Software Developer /> | Full Stack**
+💻 ** <Software Developer /> | Full Stack**
 
 ---
 
