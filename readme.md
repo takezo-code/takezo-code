@@ -47,13 +47,6 @@ Aplicação para registrar corridas, monitorar paradas e gerar histórico de via
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Thales's GitHub stats](https://github-readme-stats.vercel.app/api?username=takezo-code&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takezo-code&layout=compact)
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
