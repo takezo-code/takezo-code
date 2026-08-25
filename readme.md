@@ -1,89 +1,62 @@
-# 👋 Olá, eu sou o Thales Gabriel
+# Olá, eu sou o Thales Ribeiro 👋
 
-💻 **Desenvolvedor Full Stack**  
-📍 Belém - PA, Brasil  
-
----
-
-## 🚀 Sobre mim
-
-Sou **Thales Gabriel**, tenho **20 anos** e curso **Sistemas de Informação**.  
-Atuo como **Desenvolvedor Full Stack**, com foco na criação de **aplicações modernas, escaláveis e bem estruturadas**.
-
-Tenho experiência no desenvolvimento de **APIs REST**, aplicações **web e mobile**, integração com banco de dados e organização de projetos seguindo boas práticas.
-
-Estou em constante evolução, buscando aprofundar meus conhecimentos em **arquitetura de software, performance, segurança e escalabilidade**, sempre com o objetivo de desenvolver soluções que gerem **impacto real**.
+**Desenvolvedor Full Stack** · 📍 Belém - PA, Brasil
 
 ---
 
-## 🧠 Stack Tecnológica
+### 🚀 Sobre mim
 
-### 🎨 Front-end
+Tenho **21 anos** e curso **Sistemas de Informação**. Atuo como **Desenvolvedor Full Stack**, com foco na criação de aplicações modernas, escaláveis e bem estruturadas — do back-end em Java/Spring Boot a interfaces em React.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=fff)
+Tenho experiência com **APIs REST**, aplicações **web e mobile**, integração com banco de dados e boas práticas de desenvolvimento, incluindo testes unitários.
+
+Estou em constante evolução, aprofundando conhecimento em **arquitetura de software, performance e escalabilidade**, sempre buscando construir soluções que gerem impacto real.
 
 ---
 
-### ⚙️ Back-end
+### 🧠 Stack Tecnológica
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-
----
-
-### 🗄️ Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-
----
-
-### 🛠️ Ferramentas
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-000000?style=for-the-badge&logo=bruno&logoColor=white)
 
 ---
 
-## 🌟 Projeto em Destaque
+### 🌟 Projetos em destaque
 
-### 🔹 RDM – Registro de Deslocamentos de Motoristas
+#### 🔹 RDM – Registro de Deslocamentos de Motoristas
+Aplicação para registrar corridas, monitorar paradas e gerar histórico de viagens.
+**Stack:** React Native · Node.js + Express · PostgreSQL
+🔗 [github.com/takezo-code/RDM](https://github.com/takezo-code/RDM)
 
-Aplicação desenvolvida para registrar corridas, monitorar paradas e gerar histórico de viagens.
-
-**Tecnologias utilizadas:**
-
-- React Native (mobile)
-- Node.js + Express (API REST)
-- PostgreSQL
-- Integração completa entre front-end e back-end
-
-🔗 Repositório:  
-https://github.com/takezo-code/RDM
+#### 🔹 Sistema RPG
+Sistema web para mestres e jogadores de RPG de mesa: fichas de personagem, sistema de combate, gestão de NPCs e exportação de campanhas completas.
+**Stack:** React · TypeScript · Vite · Tailwind CSS
+🔗 [github.com/takezo-code/sistema-rpg](https://github.com/takezo-code/sistema-rpg)
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takezo-code&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takezo-code&layout=compact&theme=github_dark)
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=fff)](mailto:thales.gcr05@gmail.com)
+![Thales's GitHub stats](https://github-readme-stats.vercel.app/api?username=takezo-code&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takezo-code&layout=compact)
 
 ---
 
-⭐ Obrigado por visitar meu perfil!  
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thales-ribeiro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thales.gcr05@gmail.com)
+
+---
+
+⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato comigo.
