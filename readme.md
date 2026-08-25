@@ -30,8 +30,7 @@ Estou em constante evolução, aprofundando conhecimento em **arquitetura de sof
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 </p>
 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-000000?style=flat&logo=bruno&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
