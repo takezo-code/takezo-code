@@ -6,12 +6,6 @@ Sou apaixonado por tecnologia e games, e estou sempre em busca de aprendizado e 
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:thales.gcr05@gmail.com)
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -53,7 +47,7 @@ Sou apaixonado por tecnologia e games, e estou sempre em busca de aprendizado e 
 
 ### 🎲 ECOS — Tabletop RPG System
 
-Um sistema de RPG de mesa desenvolvido para **gerenciamento de campanhas, personagens, narrativa e combate diretamente no navegador**.
+Um sistema de RPG de mesa para **gerenciamento de campanhas, personagens, narrativa e combate diretamente no navegador**.
 
 **Stack:** React 19 · Vite · Tailwind CSS · Zustand · Radix UI · JavaScript
 
@@ -81,8 +75,6 @@ Um sistema de RPG de mesa desenvolvido para **gerenciamento de campanhas, person
 
 ---
 
-<div align="center">
+## 📫 Connect with me
 
-![Profile Views](https://komarev.com/ghpvc/?username=takezo-code\&style=flat-square\&color=blue)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thales-ribeiro-27149a34b/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:thales.gcr05@gmail.com)
