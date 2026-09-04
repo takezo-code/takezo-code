@@ -65,12 +65,6 @@ Um sistema de RPG de mesa para **gerenciamento de campanhas, personagens, narrat
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=takezo-code&theme=dark&hide_border=true"/>
-
-</div>
-
 ---
 
 ## 📫 Connect with me
