@@ -14,9 +14,9 @@ Me chamo **Thales Ribeiro**, sou desenvolvedor **Full Stack** há cerca de 2 ano
 
 **Backend:** Node.js • NestJS • Spring Boot
 
-**Databases:** PostgreSQL • MongoDB • Supabase
+**Databases:** PostgreSQL • MongoDB
 
-**Tools & DevOps:** Docker • Vercel • Postman
+**Tools & DevOps:** Docker • Vercel • Bruno • Supabase
 
 ---
 
