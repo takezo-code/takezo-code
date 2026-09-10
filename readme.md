@@ -1,10 +1,14 @@
 # Thales Ribeiro
 
-[About Me](#about-me) · [Stack](#stack) · [Projects](#projetos) · [Contact](#contact)
+[About Me](#about-me) · [Stack](#stack) · [Projects](#projects) · [Contact](#contact)
+
+---
 
 ### About Me
 
 Me chamo **Thales Ribeiro**, sou desenvolvedor **Full Stack** há cerca de 2 anos e estudante de **Sistemas de Informação**. Sou apaixonado por tecnologia e games, e estou sempre em busca de aprendizado e evolução constante — tanto na carreira quanto como pessoa.
+
+---
 
 ### Stack
 
@@ -18,6 +22,8 @@ Me chamo **Thales Ribeiro**, sou desenvolvedor **Full Stack** há cerca de 2 ano
 
 **Tools & DevOps:** Docker • Vercel • Postman
 
+---
+
 ### Projects
 
 **ECOS — Sistema de RPG de mesa**
@@ -25,6 +31,8 @@ Sistema de RPG de mesa para gerenciamento de campanhas, personagens, narrativa e
 Stack: React 19 · Vite · Tailwind CSS · Zustand · Radix UI
 
 [View Repository →](https://github.com/takezo-code/Sistema-Ecos)
+
+---
 
 ### Contact
 
