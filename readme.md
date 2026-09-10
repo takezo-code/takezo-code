@@ -22,7 +22,8 @@ Me chamo **Thales Ribeiro**, sou desenvolvedor **Full Stack** há cerca de 2 ano
 
 ### Projects:
 
-**ECOS
+**Sistema ECOS
+
 Sistema de RPG de mesa para gerenciamento de campanhas, personagens, narrativa e combate direto no navegador.
 
 Stack: React 19 · Vite · Tailwind CSS · Zustand · Radix UI
