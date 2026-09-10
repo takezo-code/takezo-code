@@ -10,23 +10,34 @@ Sou apaixonado por tecnologia e games, e estou sempre em busca de aprendizado e 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,java&theme=dark" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript" />
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40" height="40" alt="Java" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" />
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" height="40" alt="Next.js" />
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" alt="Vite" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring&theme=dark" />
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" />
+<img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" height="40" alt="NestJS" />
+<img src="https://cdn.simpleicons.org/springboot/6DB33F" width="40" height="40" alt="Spring Boot" />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL" />
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB" />
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40" height="40" alt="Supabase" />
 
 ### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,vercel,postman&theme=dark" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker" />
+<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40" height="40" alt="Vercel" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="Postman" />
 
 ---
 
@@ -58,5 +69,5 @@ Um sistema de RPG de mesa para **gerenciamento de campanhas, personagens, narrat
 
 ## Connect with me
 
-[<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
-[<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" />](mailto:thales.gcr05@gmail.com)
+[<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
+[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail" />](mailto:thales.gcr05@gmail.com)
