@@ -1,6 +1,4 @@
-# Thales Ribeiro
-
-[About Me](#about-me) · [Stack](#stack) · [Projects](#projects) · [Contact](#contact)
+# Thales Ribeiro • Full Stack Developer
 
 ---
 
