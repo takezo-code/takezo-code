@@ -1,4 +1,10 @@
-# About Me: Thales Ribeiro
+# Thales Ribeiro
+
+[About Me](#about-me) · [Stack](#stack) · [Projetos](#projetos) · [Contact](#contact)
+
+---
+
+## About Me
 
 Me chamo **Thales Ribeiro**, sou desenvolvedor **Full Stack** há cerca de 2 anos e estudante de **Sistemas de Informação**.
 
@@ -6,7 +12,7 @@ Sou apaixonado por tecnologia e games, e estou sempre em busca de aprendizado e 
 
 ---
 
-## Tech Stack
+## Stack
 
 ### Languages
 
@@ -30,7 +36,7 @@ Docker • Vercel • Postman
 
 ---
 
-## Featured Project
+## Projetos
 
 ### ECOS — Tabletop RPG System
 
@@ -42,21 +48,7 @@ Um sistema de RPG de mesa para **gerenciamento de campanhas, personagens, narrat
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=takezo-code&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
-
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=takezo-code&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-
-</div>
-
-<br/>
-
----
-
-## Connect with me
+## Contact
 
 [<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/thales-ribeiro-27149a34b/)
 [<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Gmail" />](mailto:thales.gcr05@gmail.com)
