@@ -9,12 +9,16 @@ Me chamo **Thales Ribeiro**, sou desenvolvedor **Full Stack** há cerca de 2 ano
 ## Stack
 
 **Languages:** JavaScript • TypeScript • Java
+
 **Frontend:** React • Next.js • Vite • Tailwind CSS
+
 **Backend:** Node.js • NestJS • Spring Boot
+
 **Databases:** PostgreSQL • MongoDB • Supabase
+
 **Tools & DevOps:** Docker • Vercel • Postman
 
-## Projetos
+## Projects
 
 **ECOS — Tabletop RPG System**
 Sistema de RPG de mesa para gerenciamento de campanhas, personagens, narrativa e combate direto no navegador.
