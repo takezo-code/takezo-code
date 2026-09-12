@@ -30,8 +30,6 @@ Sistema de RPG de mesa para gerenciamento de campanhas, personagens, narrativa e
 
 ---
 
----
-
 ### Contact:
 
 [LinkedIn](https://www.linkedin.com/in/thales-ribeiro-27149a34b/) · [Email](mailto:thales.gcr05@gmail.com)
