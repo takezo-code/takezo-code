@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm **Thales Ribeiro**, a **Full Stack Developer** with about 2 years of experience and an **Information Systems** student. I build complete products, from the database to deployment, with typed, tested and well-documented code.
+I'm **Thales Ribeiro**, a **Full Stack Developer** with about 2 years of experience and an **Information Systems** student. I'm passionate about technology and games, and I'm always looking to learn and grow — both in my career and as a person.
 
 ---
 
