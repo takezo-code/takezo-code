@@ -26,10 +26,12 @@ I'm **Thales Ribeiro**, a **Full Stack Developer** with about 2 years of experie
 
 **⚽ Painel da Bola**
 Football dashboard covering 11 club competitions, with standings, fixtures, top scorers, a team comparison tool and favorite teams.
+
 [Repository](https://github.com/takezo-code/painel-da-bola)
 
 **🎲 Sistema ECOS**
 Tabletop RPG platform for managing campaigns, characters, storytelling and combat right in the browser.
+
 [Repository](https://github.com/takezo-code/Sistema-Ecos)
 
 ---
