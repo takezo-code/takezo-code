@@ -1,35 +1,39 @@
 # Thales Ribeiro • Full Stack Developer
 
-### About Me:
+### About Me
 
-Me chamo **Thales Ribeiro**, sou desenvolvedor **Full Stack** há cerca de 2 anos e estudante de **Sistemas de Informação**. Sou apaixonado por tecnologia e games, e estou sempre em busca de aprendizado e evolução constante — tanto na carreira quanto como pessoa.
+I'm **Thales Ribeiro**, a **Full Stack Developer** with about 2 years of experience and an **Information Systems** student. I build complete products, from the database to deployment, with typed, tested and well-documented code.
 
 ---
 
-### Stack:
+### Stack
 
 **Languages:** JavaScript • TypeScript • Java
 
-**Frontend:** React • Next.js • Vite • Tailwind CSS
+**Frontend:** React • Next.js • Vite • Tailwind CSS • Zustand
 
-**Backend:** Node.js • NestJS • Spring Boot
+**Backend:** Node.js • NestJS • Spring Boot • Zod
 
 **Databases:** PostgreSQL • MongoDB
+
+**Testing & CI:** Vitest • Testing Library • GitHub Actions
 
 **Tools & DevOps:** Docker • Vercel • Bruno • Supabase
 
 ---
 
-### Projects:
+### Projects
 
-**Sistema ECOS**
+**⚽ Painel da Bola**
+Football dashboard covering 11 club competitions, with standings, fixtures, top scorers, a team comparison tool and favorite teams.
+[Live demo](https://painel-da-bola.vercel.app) · [Repository](https://github.com/takezo-code/painel-da-bola)
 
-Sistema de RPG de mesa para gerenciamento de campanhas, personagens, narrativa e combate direto no navegador.
-
-[View Repository →](https://github.com/takezo-code/Sistema-Ecos)
+**🎲 Sistema ECOS**
+Tabletop RPG platform for managing campaigns, characters, storytelling and combat right in the browser.
+[Live demo](https://sistema-rpg-seven.vercel.app) · [Repository](https://github.com/takezo-code/Sistema-Ecos)
 
 ---
 
-### Contact:
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/thales-ribeiro-27149a34b/) · [Email](mailto:thales.gcr05@gmail.com)
