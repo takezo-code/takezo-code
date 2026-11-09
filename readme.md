@@ -1,4 +1,4 @@
-# Thales Ribeiro • Full Stack Developer
+# Thales Ribeiro • Full Stack Developer.
 
 ### About Me
 
